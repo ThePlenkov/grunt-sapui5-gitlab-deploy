@@ -16,7 +16,7 @@
     "url": "https://github.com/ThePlenkov/grunt-sapui5-gitlab-deploy/issues"
   },
   "homepage": "https://github.com/ThePlenkov/grunt-sapui5-gitlab-deploy#readme",
-  "devDependencies": {
+  "dependencies": {
     "fetch-cookie": "^0.7.2",
     "gitlab": "^4.2.1",
     "node-fetch": "^2.2.0"
